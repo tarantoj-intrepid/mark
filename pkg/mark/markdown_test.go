@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/kovetskiy/mark/pkg/mark/stdlib"
 	"github.com/stretchr/testify/assert"
+	"github.com/tarantoj-intrepid/mark/pkg/mark/stdlib"
 )
 
 const (

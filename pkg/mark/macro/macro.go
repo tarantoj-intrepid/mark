@@ -7,10 +7,10 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/kovetskiy/mark/pkg/mark/includes"
 	"github.com/reconquest/karma-go"
 	"github.com/reconquest/pkg/log"
 	"github.com/reconquest/regexputil-go"
+	"github.com/tarantoj-intrepid/mark/pkg/mark/includes"
 	"gopkg.in/yaml.v3"
 )
 

@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"regexp"
 
-	"github.com/kovetskiy/mark/pkg/confluence"
 	"github.com/reconquest/karma-go"
 	"github.com/reconquest/pkg/log"
+	"github.com/tarantoj-intrepid/mark/pkg/confluence"
 )
 
 type LinkSubstitution struct {

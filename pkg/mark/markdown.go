@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	bf "github.com/kovetskiy/blackfriday/v2"
-	"github.com/kovetskiy/mark/pkg/mark/stdlib"
 	"github.com/reconquest/pkg/log"
+	"github.com/tarantoj-intrepid/mark/pkg/mark/stdlib"
 )
 
 var reBlockDetails = regexp.MustCompile(

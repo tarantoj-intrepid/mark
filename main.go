@@ -42,7 +42,7 @@ const (
 	version = "8.8"
 	usage   = `mark - a tool for updating Atlassian Confluence pages from markdown.
 
-Docs: https://github.com/kovetskiy/mark
+Docs: https://github.com/tarantoj-intrepid/mark
 
 Usage:
   mark [options] [-u <username>] [-p <token>] [-k] [-l <url>] -f <file>

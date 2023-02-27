@@ -8,9 +8,9 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/kovetskiy/mark/pkg/confluence"
-	"github.com/kovetskiy/mark/pkg/mark/macro"
 	"github.com/reconquest/pkg/log"
+	"github.com/tarantoj-intrepid/mark/pkg/confluence"
+	"github.com/tarantoj-intrepid/mark/pkg/mark/macro"
 
 	"github.com/reconquest/karma-go"
 )
