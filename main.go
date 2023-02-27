@@ -13,9 +13,9 @@ import (
 	"github.com/kovetskiy/mark/pkg/mark"
 	"github.com/kovetskiy/mark/pkg/mark/includes"
 	"github.com/kovetskiy/mark/pkg/mark/macro"
-	"github.com/kovetskiy/mark/pkg/mark/stdlib"
 	"github.com/reconquest/karma-go"
 	"github.com/reconquest/pkg/log"
+	"github.com/tarantoj-intrepid/mark/pkg/mark/stdlib"
 )
 
 type Flags struct {
