@@ -1,4 +1,4 @@
-module github.com/kovetskiy/mark
+module github.com/tarantoj-intrepid/mark
 
 go 1.19
 
