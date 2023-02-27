@@ -9,12 +9,12 @@ import (
 
 	"github.com/docopt/docopt-go"
 	"github.com/kovetskiy/lorg"
-	"github.com/kovetskiy/mark/pkg/confluence"
-	"github.com/kovetskiy/mark/pkg/mark"
-	"github.com/kovetskiy/mark/pkg/mark/includes"
-	"github.com/kovetskiy/mark/pkg/mark/macro"
 	"github.com/reconquest/karma-go"
 	"github.com/reconquest/pkg/log"
+	"github.com/tarantoj-intrepid/mark/pkg/confluence"
+	"github.com/tarantoj-intrepid/mark/pkg/mark"
+	"github.com/tarantoj-intrepid/mark/pkg/mark/includes"
+	"github.com/tarantoj-intrepid/mark/pkg/mark/macro"
 	"github.com/tarantoj-intrepid/mark/pkg/mark/stdlib"
 )
 
